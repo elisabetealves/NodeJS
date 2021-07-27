@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-ts",
+  "version": "1.0.0",
+  "description": "Projeto de teste do typescript\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[T\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elisabete Alves",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.4.2",
+    "query-string": "^7.0.1",
+    "typescript": "^4.3.5"
+  }
+}
